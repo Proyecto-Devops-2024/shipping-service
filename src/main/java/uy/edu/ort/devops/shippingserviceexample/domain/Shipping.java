@@ -10,6 +10,13 @@ public class Shipping {
         this.id = id;
     }
 
+
+
+
+
+
+
+
     public String getStatus() {
         return status;
     }
